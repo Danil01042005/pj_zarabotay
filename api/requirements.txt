@@ -1,0 +1,7 @@
+fastapi==0.108.0
+uvicornfastapi
+uvicorn[standard]
+requests==2.31.0
+psycopg2-binary==2.9.7
+sqlalchemy==2.0.20
+pydantic==2.7.0
